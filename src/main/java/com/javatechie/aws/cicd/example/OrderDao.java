@@ -17,6 +17,7 @@ public class OrderDao {
                 new Order(205, "Laptop", 1, 150000),
                 new Order(809, "headset", 1, 1799),
             new Order(100,"mathan",2,19000),
+            new Order(299,"sathish",5,123),
             new Order(1,"Ruvith♡Boomika",3,1999),
              new Order(809, "headset", 1, 1799))
                
